@@ -1,2 +1,1 @@
-- 👋 Hi, I write software
-- S
+- 👋 Hi, I write software. 
