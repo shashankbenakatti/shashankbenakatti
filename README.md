@@ -4,4 +4,4 @@
 
 Action generates data about yourself.
 
-I consistently strive to arrive at a O(n*n) solution. 
+I consistently strive to arrive at a O(n^n) solution. 
