@@ -1,6 +1,6 @@
 # Hi, I'm Shashank 👋
 
-Backend developer with a thing for clean APIs and systems that actually perform. I work mostly with Java Spring Boot and Python, with JavaScript when the situation calls for it.
+Backend developer with good architecture intuition and systems that actually perform. I work mostly with Java Spring Boot and Python, with JavaScript when it calls for UI.
 
 Currently building in the ERP and Business Tools domain, where I recently dropped an API's response time from 2 seconds to 80ms with Redis caching. Before that I was deep in industrial software at Panva Engineering — WebSockets, OCPP 2.0.1 compliance, ERPNext integrations, and modernising a supply chain that was long overdue for it.
 
