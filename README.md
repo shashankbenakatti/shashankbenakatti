@@ -2,7 +2,7 @@
 
 Backend developer with good architecture intuition and systems that actually perform. I work mostly with Java Spring Boot and Python, with JavaScript when it calls for UI.
 
-Currently building in the ERP and Business Tools domain, where I recently dropped an API's response time from 2 seconds to 80ms with Redis caching. Before that I was deep in industrial software at Panva Engineering — WebSockets, OCPP 2.0.1 compliance, ERPNext integrations, and modernising a supply chain that was long overdue for it.
+Currently building in the ERP and Business Tools domain.
 
 Graduated from Manipal Institute of Technology in 2025 with a CS degree and a cybersecurity minor.
 
