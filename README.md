@@ -32,27 +32,30 @@ Currently building in the ERP and Business Tools domain.
 | **NayiKithaab** | Library portal with IoT-based contactless book issuance and a **MARC → BIBFRAME** database migration. |
 
 <br>
+---
 
-## 🛠️ Tech I reach for
+## Tech I reach for
 
-### 🟢 Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+```
+Languages   →  Java · Python · JavaScript
+Backend     →  Spring Boot · Flask · FastAPI
+Databases   →  PostgreSQL · MariaDB · Redis
+Testing     →  JUnit · Mockito · Spring Boot Test
+Other       →  WebSockets · OCPP 2.0.1 · REST APIs · Git · Postman
+```
 
-### 🌱 Backend
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+---
 
-### 🗄️ Databases
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+## Get in touch
 
-### 🧪 Testing & Other
-<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white" alt="WebSockets" />
-<img src="https://img.shields.io/badge/OCPP_2.0.1-4A90E2?style=flat" alt="OCPP" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+- 📧 shashank.benakatti@outlook.com
+- 💬 Matrix: [@findingchemo:tchncs.de](https://matrix.to/#/@findingchemo:tchncs.de)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shashankbenakatti)
+
+---
+
+
+
+
+
+
