@@ -4,7 +4,7 @@ Backend developer with good architecture intuition and systems that actually per
 
 Currently building in the ERP and Business Tools domain.
 
-Graduated from Manipal Institute of Technology in 2025 with a CS degree and a cybersecurity minor.
+CS Grad '25 - Manipal Institute of Technology 
 
 ---
 
