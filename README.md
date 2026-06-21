@@ -32,7 +32,6 @@ Currently building in the ERP and Business Tools domain.
 | **NayiKithaab** | Library portal with IoT-based contactless book issuance and a **MARC → BIBFRAME** database migration. |
 
 <br>
----
 
 ## Tech I reach for
 
@@ -52,7 +51,6 @@ Other       →  WebSockets · OCPP 2.0.1 · REST APIs · Git · Postman
 - 💬 Matrix: [@findingchemo:tchncs.de](https://matrix.to/#/@findingchemo:tchncs.de)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shashankbenakatti)
 
----
 
 
 
