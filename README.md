@@ -43,8 +43,6 @@ Testing     →  JUnit · Mockito · Spring Boot Test
 Other       →  WebSockets · OCPP 2.0.1 · REST APIs · Git · Postman
 ```
 
----
-
 ## Get in touch
 
 - 📧 shashank.benakatti@outlook.com
