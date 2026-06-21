@@ -4,7 +4,7 @@ Backend developer with good architecture intuition and systems that actually per
 
 Currently building in the ERP and Business Tools domain.
 
-CS Grad '25 - Manipal Institute of Technology 
+`CS Grad '25 - Manipal Institute of Technology`
 
 ---
 
