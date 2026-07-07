@@ -40,7 +40,6 @@ Languages   →  Java · Python · JavaScript
 Backend     →  Spring Boot · Flask · FastAPI
 Databases   →  PostgreSQL · MariaDB · Redis
 Testing     →  JUnit · Mockito · Spring Boot Test
-Other       →  WebSockets · OCPP 2.0.1 · REST APIs · Git · Postman
 ```
 
 ## Get in touch
